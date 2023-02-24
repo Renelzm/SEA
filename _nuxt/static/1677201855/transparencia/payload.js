@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/transparencia", {data:[{}],fetch:{},mutations:[["LOG_OUT",void 0]]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/peac", {data:[{}],fetch:{},mutations:[["LOG_OUT",void 0]]});
